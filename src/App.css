@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+.size{
+  background-color: whitesmoke;
+  height: 29px;
+  width: 60px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px
+;
+}
+.road{
+  display: flex;
+  justify-content: center;
+  text-align:center;
+}
+.btn{
+  background-color: rgb(64, 64, 179);
+  color: white;
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  margin: 20px;
+  font-size: 20px;
+}
+.btn-2{
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.card{
+  height: 150px;
+  width: 300px;
+  background-color: whitesmoke;
+  border: 2px solid;
+  margin: auto;
+  text-decoration-style: none;
+  padding-top:50px;
+
+}
+.form{
+  height: 150px;
+ width: 357px;
+  background-color: white;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  padding-top: 60px;
+  margin-top: 100px;
+  border: 2px solid
+}
+ul{
+  list-style-type: none;
+
+}
