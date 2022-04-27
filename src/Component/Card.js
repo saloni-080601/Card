@@ -86,8 +86,7 @@ function Card(props) {
       {submitting &&
        <div><ul>
        <li className='card'>
-         <p>{props.value}
-         665465465455353</p>
+         <p>{props.value}</p>
          <button className='btn-2' onClick={onClear}>clear</button>
        </li>
      </ul></div>
